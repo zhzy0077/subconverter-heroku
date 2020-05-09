@@ -1,0 +1,19 @@
+{
+  "name": "subconverter-heroku",
+  "version": "1.0.0",
+  "description": "A Heroku App based on https://github.com/tindy2013/subconverter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhzy0077/subconverter-heroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhzy0077/subconverter-heroku/issues"
+  },
+  "homepage": "https://github.com/zhzy0077/subconverter-heroku#readme"
+}
